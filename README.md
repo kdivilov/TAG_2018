@@ -1,2 +1,2 @@
-# TAG_2018
-Data and code for the single and multiple phenotype analyses in Divilov et al. (2018)
+# Single and multiple phenotype QTL analyses of downy mildew resistance in interspecific grapevines
+This repository contains the genetic and phenotypic data and code used in a recently accepted paper (link coming soon) in the Theoretical and Applied Genetics journal.
