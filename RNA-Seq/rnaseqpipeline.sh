@@ -33,7 +33,7 @@ stringtie-1.3.3b.Linux_x86_64/stringtie --merge -p 8 -G ref/all_V1_NR_mrna_new_p
 
 for filename in stringtieoutput/*.gtf; do
     echo "$filename"
-    stringtie-1.3.3b.Linux_x86_64/stringtie "hisatoutput/$(basename "$filename" .gtf).bam" -e -B -p 8 -G stringtieoutput/allmerged.gtf -o "ballgownoutput/BG_$(basename "$filename" .gtf)/BG_$(basename "$filename" .gtf).gtf" 
+    stringtie-1.3.3b.Linux_x86_64/stringtie "hisatoutput/$(basename "$filename" .gtf).bam" -e -B -p 8 -G stringtieoutput/allmerged.gtf -o "ballgown/BG_$(basename "$filename" .gtf)/BG_$(basename "$filename" .gtf).gtf" 
 done
 
 
