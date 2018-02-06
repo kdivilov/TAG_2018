@@ -26,14 +26,14 @@ Repository outline:
   * bn.R – R code necessary to find QTL as well as effects among traits using the breeding values of all traits at the same time.
 
 * SingleTimePointQTL
-  * HC2015CV.csv – 2015 HC family sporulation (computer vision) and leaf trichomes (2 dpi) phenotypes for multiple dpi across experiments across years and genetic map in Rqtl format.
-  * HC2015man.csv – 2015 HC family sporulation (manual) and HR (2 dpi) phenotypes for multiple dpi across experiments across years and genetic map in Rqtl format.
-  * HC2016CV.csv – 2016 HC family sporulation (computer vision) and leaf trichomes (2 dpi) phenotypes for multiple dpi across experiments across years and genetic map in Rqtl format.
-  * HC2016man.csv – 2016 HC family sporulation (manual) and HR (2 dpi) phenotypes for multiple dpi across experiments across years and genetic map in Rqtl format.
-  * RH2015CV.csv – 2015 RH family sporulation (computer vision) phenotypes for multiple dpi across experiments across years and genetic map in Rqtl format.
-  * RH2015man.csv – 2015 RH family sporulation (manual) and HR (2 dpi) phenotypes for multiple dpi across experiments across years and genetic map in Rqtl format.
-  * RH2016CV.csv – 2016 RH family sporulation (computer vision) phenotypes for multiple dpi across experiments across years and genetic map in Rqtl format.
-  * RH2016man.csv – 2016 RH family sporulation (manual) and HR (2 dpi) phenotypes for multiple dpi across experiments across years and genetic map in Rqtl format.
+  * HC2015CV.csv – 2015 HC family sporulation (computer vision) and leaf trichome (2 dpi) phenotypes for multiple dpi across experiments and genetic map in Rqtl format.
+  * HC2015man.csv – 2015 HC family sporulation (manual) and HR (2 dpi) phenotypes for multiple dpi across experiments and genetic map in Rqtl format.
+  * HC2016CV.csv – 2016 HC family sporulation (computer vision) and leaf trichome (2 dpi) phenotypes for multiple dpi across experiments and genetic map in Rqtl format.
+  * HC2016man.csv – 2016 HC family sporulation (manual) and HR (2 dpi) phenotypes for multiple dpi across experiments and genetic map in Rqtl format.
+  * RH2015CV.csv – 2015 RH family sporulation (computer vision) phenotypes for multiple dpi across experiments and genetic map in Rqtl format.
+  * RH2015man.csv – 2015 RH family sporulation (manual) and HR (2 dpi) phenotypes for multiple dpi across experiments and genetic map in Rqtl format.
+  * RH2016CV.csv – 2016 RH family sporulation (computer vision) phenotypes for multiple dpi across experiments and genetic map in Rqtl format.
+  * RH2016man.csv – 2016 RH family sporulation (manual) and HR (2 dpi) phenotypes for multiple dpi across experiments and genetic map in Rqtl format.
   * singletimepoint.R – R code necessary to find QTL for a single time point in a single experiment in a single year.
 
 * RNA-Seq
